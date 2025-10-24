@@ -21,6 +21,7 @@ jobs:
           
       - name: Build Docker image
         run: |
+         pwd 
           echo "Building Docker image with tag: $TAG"
           docker build -t maiekel259041/flask -f ./app/Dockerfile app
       - name: push Docker image 
