@@ -24,12 +24,12 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
           
       - name: Build Docker image
-        run: |
-         pwd 
-          echo "Building Docker image with tag: $TAG"
+        run: |   
+          echo "Building Docker image"
           docker build -t maiekel259041/flask -f ./app/Dockerfile ./app
       - name: push Docker image 
         run: |
+         echo "pushing Docker image"
          docker push maiekel259041/flask
          
         
