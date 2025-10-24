@@ -37,6 +37,8 @@ Actions Performed:
     ```bash
     http://localhost
     ```
+    <img width="961" height="564" alt="Screenshot 2025-10-25 023718" src="https://github.com/user-attachments/assets/0318414c-d64b-472d-825e-77da67d6f960" />
+
      To Stop Services:
      ```bash
       docker compose down
@@ -48,6 +50,8 @@ Actions Performed:
   - Automation: The workflow is triggered automatically upon code push.
 
   - Build and Push: It builds the Docker image for the application and then pushes it to the Docker Hub repository (maiekel259041/flask)
+    
+   
 
 
 
