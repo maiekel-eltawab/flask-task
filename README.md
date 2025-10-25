@@ -51,7 +51,8 @@ Actions Performed:
 
   - Build and Push: It builds the Docker image for the application and then pushes it to the Docker Hub repository (maiekel259041/flask)
     
-   
+   <img width="1321" height="624" alt="Screenshot 2025-10-25 033738" src="https://github.com/user-attachments/assets/eda1be16-98a0-4668-b4fa-d3c40d00336b" />
+
 
 
 
