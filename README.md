@@ -38,6 +38,8 @@ Actions Performed:
     http://localhost
     ```
     <img width="961" height="564" alt="Screenshot 2025-10-25 023718" src="https://github.com/user-attachments/assets/0318414c-d64b-472d-825e-77da67d6f960" />
+    <img width="1274" height="661" alt="Screenshot 2025-10-25 035807" src="https://github.com/user-attachments/assets/2ba8e19a-d6f1-4cf1-98b3-d5a93c4adf17" />
+
 
      To Stop Services:
      ```bash
